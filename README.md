@@ -9,9 +9,6 @@ Director of dynamic interpolation for comprehensive media distribution and analy
 - verose abstraction (in the general sense as it applies to cubic regression)
 - liquification
 - analytical analysis
-- Rats (those lil cheese eating gray guys)
-
-Vibe coding is obsolete, real ones aura code.
 
 ## Currently working on
 
